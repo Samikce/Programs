@@ -1,0 +1,3 @@
+const array1 = [5, 12, 8, 130, 44];
+const max = (ele) => ele > 13;
+console.log(array1.findIndex(max));
